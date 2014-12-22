@@ -75,11 +75,6 @@ $crud->new_multi_upload("my_pictures",$config);
 ```
 
 
-```php
-$ unzip grocery_crud_multiuploader -d /var/www/html/virtual/Development/Admin/
-$ cd grocery_crud_multiuploader
-$ chown -R apache assets/grocery_crud_multiuploader/GC_uploads/
-```
 
 #### Package Strucure with sample files & sql dump
 ```sh
